@@ -6,12 +6,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactioncommerce/reaction-file-collections.git"
+    "url": "https://github.com/zzh1234567/file-collections-zzh-oss.git"
   },
   "bugs": {
-    "url": "https://github.com/reactioncommerce/reaction-file-collections/issues"
+    "url": "https://github.com/zzh1234567/file-collections-zzh-oss/issues"
   },
-  "homepage": "https://github.com/reactioncommerce/reaction-file-collections",
+  "homepage": "https://github.com/zzh1234567/file-collections-zzh-oss",
   "files": [
     "dist",
     "LICENSE",
